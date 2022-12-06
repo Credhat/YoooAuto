@@ -11,6 +11,7 @@ pid
 obj/
 bin/
 Debug/
+.Debug/
 .dll
 *.dll
 .exe
