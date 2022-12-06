@@ -10,9 +10,11 @@ target/
 pid
 obj/
 bin/
+Debug/
 .dll
 *.dll
 .exe
 *.exe
 .cache
 *.cache
+*.editorconfig
