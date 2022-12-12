@@ -5,7 +5,7 @@ using System.Net;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace SiMay.Platform.Windows
+namespace YoooAuto.WorkSpace
 {
     public static class CommonWin32Api
     {
